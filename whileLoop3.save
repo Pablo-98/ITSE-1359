@@ -1,0 +1,9 @@
+userInput = input("enter a gender: ")
+
+gen1 = "male"
+gen2 = "female"
+
+while userInput != "male" and userInput != "female":			
+	userInput = input("enter a gender please: ")
+
+print (userInput);

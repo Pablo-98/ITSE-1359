@@ -1,0 +1,15 @@
+userInput = input("enter a gender: ").lower()
+
+gen1 = "male"
+gen2 = "female"
+
+while userInput != gen1 and userInput != gen2 :			
+	userInput = input("enter a gender please: ")
+
+print (userInput);
+print("----------------------------------------------")
+
+s = "hello"
+i=0
+while s[i] != "o":	
+	print("hi"); 

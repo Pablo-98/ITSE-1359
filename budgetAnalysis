@@ -1,0 +1,14 @@
+monthBudget = int( input("enter your budget for the month") )
+
+
+expenses = int (input("enter expense $$: ") ) 
+
+newBudget = monthBudget - expenses 
+print("updated budget: ", newBudget)
+
+while newBudget >0 and expenses > 0:
+	expenses = int (input ("enter another expense  or 0 to stop "))
+	newBudget-= expenses	
+	print("updated budget: ",newBudget)
+print("final budget: ", newBudget)
+

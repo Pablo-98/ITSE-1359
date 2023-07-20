@@ -1,0 +1,25 @@
+
+test1 =int( input("enter the grade for test 1: "))
+test2 =int( input("enter the grade for test 2: "))
+test3 =int( input("enter the grade for test 3: "))
+
+testSum = test1 + test2 + test3
+
+testAverage = testSum / 3
+
+averageGradeLet = 'U'
+print("the average grade is: ", testAverage)
+
+if testAverage >= 90:
+	averageGradeLet = 'A'
+elif testAverage >=80 and testAverage <90:
+	averageGradeLet = 'B'
+elif testAverage >= 70 and testAverage<80:
+	averageGradeLet = 'C'
+elif testAverage >=60 and testAverage < 70:
+	averageGradeLet = 'D'
+else:
+	aveageGradeLet = 'F'
+
+print ("the average grade between the three tests is: ", 
+averageGradeLet)

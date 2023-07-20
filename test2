@@ -1,0 +1,9 @@
+name = input("enter name: ")
+count = 0
+b=0
+
+for x in name:
+	count +=1
+
+for b in range( name[0], name[count-1 ], 2):
+	print(b)

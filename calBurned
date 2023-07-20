@@ -1,0 +1,13 @@
+minutes = 10
+
+
+
+minuteBurn = 4.2
+
+i = 0
+totalBurned = 0;
+
+while i < 30:	
+	totalBurned = i * minuteBurn
+	print("cals burned at ", i , "minutes: ", totalBurned)
+	i+=1

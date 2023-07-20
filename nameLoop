@@ -1,0 +1,15 @@
+print("for loop");
+name = input("enter a name: ").lower()
+
+aCount = 0
+vowelCount = 0
+for x in name:
+	if x == 'a':
+		aCount+=1
+	if x =='a' or x== 'e' or x== 'i' or x== 'o' or x== 'u':
+		vowelCount+=1
+print("num of times a appears: ", aCount);
+print ("num of times a vowel appears: ", vowelCount);
+
+print("----------------------")
+

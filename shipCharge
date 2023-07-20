@@ -1,0 +1,15 @@
+weight  =  input("enter the weight of your package in pounds please ")
+
+newWeight = float(weight)
+totalCharge = 0
+
+if newWeight <= 2:
+	totalCharge = newWeight *1.30
+elif newWeight >2 and newWeight <= 6:
+	totalCharge = newWeight * 3
+elif newWeight >6 and newWeight <=10:
+	totalCharge = newWeight * 4
+else:
+	totalCharge = newWeight * 4.75
+
+print("the total charge for your package is: ", totalCharge);
