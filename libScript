@@ -1,4 +1,10 @@
 import os
 
-current_working_directory = os.getcwd()
-print(current_working_directory)
+i = 1
+ip ="10.0.2."  
+
+while i < 16: 
+	ping_cmd = "ping -c 1 -W 3 " +ip+str(i) + " >> pingResults.txt"
+	exit_code = os.system(ping_cmd)
+	print(exit_code)
+	i+=1

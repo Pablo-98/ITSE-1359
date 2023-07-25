@@ -1,0 +1,120 @@
+PING 10.0.2.1 (10.0.2.1): 56 data bytes
+
+--- 10.0.2.1 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.2 (10.0.2.2): 56 data bytes
+
+--- 10.0.2.2 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.3 (10.0.2.3): 56 data bytes
+
+--- 10.0.2.3 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.4 (10.0.2.4): 56 data bytes
+
+--- 10.0.2.4 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.5 (10.0.2.5): 56 data bytes
+
+--- 10.0.2.5 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.6 (10.0.2.6): 56 data bytes
+
+--- 10.0.2.6 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.7 (10.0.2.7): 56 data bytes
+
+--- 10.0.2.7 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.8 (10.0.2.8): 56 data bytes
+
+--- 10.0.2.8 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.9 (10.0.2.9): 56 data bytes
+
+--- 10.0.2.9 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.10 (10.0.2.10): 56 data bytes
+
+--- 10.0.2.10 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.11 (10.0.2.11): 56 data bytes
+
+--- 10.0.2.11 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.12 (10.0.2.12): 56 data bytes
+
+--- 10.0.2.12 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.13 (10.0.2.13): 56 data bytes
+
+--- 10.0.2.13 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.14 (10.0.2.14): 56 data bytes
+
+--- 10.0.2.14 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.15 (10.0.2.15): 56 data bytes
+
+--- 10.0.2.15 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.1 (10.0.2.1): 56 data bytes
+
+--- 10.0.2.1 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.2 (10.0.2.2): 56 data bytes
+
+--- 10.0.2.2 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.3 (10.0.2.3): 56 data bytes
+
+--- 10.0.2.3 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.4 (10.0.2.4): 56 data bytes
+
+--- 10.0.2.4 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.5 (10.0.2.5): 56 data bytes
+
+--- 10.0.2.5 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.6 (10.0.2.6): 56 data bytes
+
+--- 10.0.2.6 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.7 (10.0.2.7): 56 data bytes
+
+--- 10.0.2.7 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.8 (10.0.2.8): 56 data bytes
+
+--- 10.0.2.8 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.9 (10.0.2.9): 56 data bytes
+
+--- 10.0.2.9 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.10 (10.0.2.10): 56 data bytes
+
+--- 10.0.2.10 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.11 (10.0.2.11): 56 data bytes
+
+--- 10.0.2.11 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.12 (10.0.2.12): 56 data bytes
+
+--- 10.0.2.12 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.13 (10.0.2.13): 56 data bytes
+
+--- 10.0.2.13 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.14 (10.0.2.14): 56 data bytes
+
+--- 10.0.2.14 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 10.0.2.15 (10.0.2.15): 56 data bytes
+
+--- 10.0.2.15 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
